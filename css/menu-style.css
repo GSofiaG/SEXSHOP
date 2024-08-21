@@ -1,0 +1,14 @@
+.imagen-logo{
+    background-color: rgb(111, 25, 197);
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    margin-top: 20%;
+}
+.imagen-logo img{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    margin-top: 20%;
+    margin-left: 10%;
+}
