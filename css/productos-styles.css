@@ -1,0 +1,47 @@
+.caja-grande{
+background-color:  rgb(157, 115, 212);
+width: 90%;
+height: 50%;
+margin: 0 auto;
+margin-top: 20px;
+margin-bottom: 20px;
+display: flex;
+}
+
+body{
+  background-color: beige;
+}
+
+.caja-pequeña-1{
+    background-color: rgb(126, 88, 161);
+    width: 80%;
+    height: 80%;
+    border: 2px solid rgb(59, 38, 114);
+}
+.caja-pequeña-1 img{
+    max-width: 97%;
+    max-height: 4000px;
+    margin-left: 12%;
+    
+
+}
+
+.caja-pequeña-2{
+    background-color: mediumslateblue;
+    width: 28%;
+    height: 525px;
+    border: 2px solid rgb(59, 38, 114);
+    padding: 15px;
+    padding-right: 30px;
+    text-align: justify;
+    overflow: hidden;
+    overflow-y: scroll;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.caja-pequeña-2 h1{
+    text-align: center;
+    font-weight: bold;
+    color: lavender;
+}

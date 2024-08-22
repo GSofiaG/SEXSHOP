@@ -1,0 +1,42 @@
+body{
+    background-color: mediumpurple;
+}
+
+.caja-grande{
+    background-color: darkorchid;
+    width: 80%;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    display: flex;
+}
+.caja-peque-1 img{
+width: 100%;
+}
+.caja-peque-1 h4{
+text-align: center;
+font-weight: bold;
+font-size: 25px;
+}
+
+.caja-peque-1{
+    background-color: darkmagenta;
+    width: 50%;
+    height: 100%;
+    padding: 10%;
+}
+
+
+.caja-peque-2{
+    width: 50%;
+    height: 100%;
+    margin: 10%;
+    margin-right: 15px;
+}
+
+.caja-peque-2 h4{
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    }

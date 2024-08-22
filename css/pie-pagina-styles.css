@@ -1,0 +1,15 @@
+.caja-pie-pagina{
+    background-color: rgb(199, 169, 218);
+    color: rgb(93, 28, 146);
+    width: 90%;
+    height: 20%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 18px;
+    box-shadow: 12px 12px 12px #65426e;
+    border-radius: 30px;
+}
+
+.caja-pie-pagina:hover{
+    font-size: 29px;
+}

@@ -1,0 +1,79 @@
+.caja-grande{
+    background-color:  rgb(157, 115, 212);
+    width: 90%;
+    /*height: 50%;*/
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+   display: flex;
+    }
+    
+    body{
+      background-color: beige;
+    }
+
+    .caja-pequeña-1{
+        background-color: mediumpurple;
+        width: 200px;
+        height: 500px;
+        padding: 20px;
+        overflow: hidden;
+        overflow-y: scroll;
+    }
+.caja-pequeña-3{
+    padding: 20px;
+    overflow: hidden;
+    overflow-y: scroll;
+    color: antiquewhite;
+
+}
+
+
+    .caja-pequeña-1 p{
+        text-align: justify;
+        padding-right: 25px;
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: bisque;
+    }
+    .caja-pequeña-1 h1{
+        font-size: 25px;
+        text-align: center;
+        color: lavenderblush;
+        text-shadow: 3px 3px 3px rgb(27, 6, 39);
+    }
+
+
+    .caja-pequeña-2{
+        background-color: rgb(121, 84, 196);
+        width: 800px;
+        height: 500px;
+    }
+
+    .caja-pequeña-3{
+        background-color:  mediumpurple;
+        width: 200px;
+        height: 500px;
+    }
+.caja-pequeña-3 p{
+    text-align: justify;
+    padding-right: 25px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: bisque;
+}
+.caja-pequeña-3 h1{
+    font-size: 25px;
+    text-align: center;
+    color: lavenderblush;
+    text-shadow: 3px 3px 3px rgb(27, 6, 39)
+}
+
+
+
+    .caja-pequeña-2 img{
+      margin-top: 25px;
+
+
+    }
